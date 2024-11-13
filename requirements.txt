@@ -1,0 +1,15 @@
+streamlit==1.26.0
+groq
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langsmith
+prompt-toolkit
+gpt4all
+load_dotenv
+pymongo
+neo4j
+py2neo
+PyPDF2
