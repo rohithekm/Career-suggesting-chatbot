@@ -9,4 +9,5 @@ ZoroBot is a Streamlit-based chatbot application that uses LangChain, Groq, and 
 
 
 
-This is on progress........!
+This is in progress........!
+(Adjusted to suggest only a few courses.It can be expanded.)
