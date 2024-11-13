@@ -11,5 +11,7 @@ ZoroBot is a Streamlit-based chatbot application that uses LangChain, Groq, and 
 
 This is in progress........!
 
-(- Adjusted to suggest only hand-picked courses, it can be expanded.
- - User needs to create a database in neo4j and use the corresponding username and password. MongoDB can be used as alternate for neo4j for data storing and retreving.)
+( 
+ - Adjusted to suggest only hand-picked courses, it can be expanded.
+ - User needs to create a database in neo4j and use the corresponding username and password. MongoDB can be used as alternate for neo4j for data storing and retreving.
+   )
