@@ -1,2 +1,12 @@
-# Career-suggesting-chatbot
-This chatbot is designed to help students and professionals find the perfect career courses. By understanding your interests, goals, and background, suggests tailored courses with details like duration, fees, and syllabus, creating a smooth, conversational experience. 
+# ZoroBot - Career Course Advisor
+
+ZoroBot is a Streamlit-based chatbot application that uses LangChain, Groq, and Neo4j to suggest career courses based on user interests.
+
+## Features
+- Interactive chat interface with memory support
+- Course recommendations based on user inputs
+- Neo4j integration to store and retrieve course details.
+
+
+
+This is on progress........!
